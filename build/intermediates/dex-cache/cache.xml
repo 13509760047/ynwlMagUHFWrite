@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\dxl\MagicUHF_WriteCard\libs\androidwpxtools.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6cacf7b57fb4c348e3aa0c76d403ede7c9442b7a">
+        <dex dex="C:\Users\Administrator\Desktop\dxl\MagicUHF_WriteCard\build\intermediates\pre-dexed\debug\androidwpxtools_3afd0e812a655cc93e7efaf95651ce305137a11d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\dxl\MagicUHF_WriteCard\libs\androidwpx.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5a0ebbf7c5d2d1ccc3dad0792ec5661f4848ba3">
+        <dex dex="C:\Users\Administrator\Desktop\dxl\MagicUHF_WriteCard\build\intermediates\pre-dexed\debug\androidwpx_7642fdae339df0cf48ded2310d3633a4eca4be0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\dxl\MagicUHF_WriteCard\libs\volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a94601db9bdfb7dc60efabb3dea91a0675f591d">
+        <dex dex="C:\Users\Administrator\Desktop\dxl\MagicUHF_WriteCard\build\intermediates\pre-dexed\debug\volley_f4722ed42c662e59459f119a03bbe6a50c3aeaed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\dxl\MagicUHF_WriteCard\libs\android-support-v4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5896b0a4e377ac4242eb2bc785220c1c4fc052f4">
+        <dex dex="C:\Users\Administrator\Desktop\dxl\MagicUHF_WriteCard\build\intermediates\pre-dexed\debug\android-support-v4_283438eaa07313b0547d9e6e38960b2f70121b10.jar" />
+    </item>
+
+</items>
